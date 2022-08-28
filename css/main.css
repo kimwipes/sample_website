@@ -1,8 +1,42 @@
 .nav-spacing {
   margin:0 0 0 10px;
+}
+.nav-link {
   text-decoration:none;
   color:blue;
 }
 .nav-menu {
   text-align:right;
+}
+.image-link {
+  text-decoration: none;
+}
+.page-title {
+  text-align:center;
+  margin: 0 0 80px;
+}
+.image-overview {
+  display:block;
+  margin: 0 auto;
+}
+.background-introduce {
+  width:560px;
+  margin:20px auto;
+  padding:30px;
+  background-color:#fafafa;
+}
+.image-book {
+  float:left;
+  display:block;
+  margin: 0 auto;
+}
+.blockquote {
+  font-style:italic;
+  font-size:20px;
+}
+.strong-in-bq {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color:#ff0000;
 }
